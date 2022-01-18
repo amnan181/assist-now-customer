@@ -1,4 +1,4 @@
-package com.themetemplate;
+package com.assistnow.customer;
 
 import com.facebook.react.ReactActivity;
 
